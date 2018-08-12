@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "526720950854",
+    "firebase_url": "https://myflutterboi.firebaseio.com",
+    "project_id": "myflutterboi",
+    "storage_bucket": "myflutterboi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526720950854:android:6b451c3428890915",
+        "android_client_info": {
+          "package_name": "com.riksasuviana.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526720950854-cef7rfd7okvi9f6570bhofk9ekhopds8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeOovqiRRFC-SKaJeOxx77B44w82StGJQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
